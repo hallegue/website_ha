@@ -1,0 +1,18 @@
+---
+title: ""
+format:
+  html:
+    grid:
+      sidebar-width: 0px
+      margin-width: 0px
+      gutter-width: 0px
+---
+
+::: callout-important
+WEBSITE UNDER CONSTRUCTION
+:::
+
+:::: column-page
+::: homepage-image-hover
+:::
+::::

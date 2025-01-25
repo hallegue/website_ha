@@ -1,0 +1,8 @@
+---
+title: "Research"
+draft: true
+listing:
+  contents: listings/research/
+  type: default
+  fields: [image, title, description]
+---
