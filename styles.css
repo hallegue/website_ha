@@ -1,5 +1,10 @@
 /* css styles */
 
+/* GENERAL */
+
+img.round {
+  border-radius: 30px !important;
+}
 
 /* HOMEPAGE */
 
@@ -19,9 +24,6 @@
 
 /* ABOUT */
 
-div.quarto-about-jolla img.round {
-  border-radius: 10%;
-}
 
 /* CONTACT */
 
@@ -31,14 +33,8 @@ div.quarto-about-jolla img.round {
   margin-bottom: 100px;
 }
 
-.contact-img figure {
-  position: absolute;
-  left: 0;
-  bottom: 50px;
-}
-
 figcaption {
   text-align: center;
   font-size: 10pt;
-  caption-side: top;
+  caption-side: bottom;
 }
