@@ -1,0 +1,21 @@
+---
+title: "Contact"
+format:
+  html:
+    grid:
+      sidebar-width: 0px
+      margin-width: 0px
+      gutter-width: 0px
+---
+
+::: contact-text
+Feel free to reach out via <a href="mailto:h.all@disroot.org" target="_blank">email {{< iconify hugeicons:mail-at-sign-01 >}}</a>
+:::
+
+<div class="column-screen contact-img">
+  <figure>
+    <figcaption>Photo by Armand Patoir</figcaption>
+    <img src="./assets/images/hassen_contact.png" class="img-fluid">
+  </figure>
+</div>  
+

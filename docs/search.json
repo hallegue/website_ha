@@ -1,9 +1,51 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "HA",
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
     "section": "",
-    "text": "Important\n\n\n\nWEBSITE UNDER CONSTRUCTION"
+    "text": "Feel free to reach out via email \n\n\n\n\nPhoto by Armand Patoir"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Hassen Allegue",
+    "section": "",
+    "text": "I am currently a postdoctoral researcher at the Maurice Lamontagne Institute in Mont-Joli, Quebec, Canada, with Fisheries and Oceans Canada. My research focuses on recent changes in white shark presence in Atlantic Canadian waters and their interactions with grey seals. To address this ecological question, I use acoustic and satellite telemetry technologies."
+  },
+  {
+    "objectID": "about.html#experience",
+    "href": "about.html#experience",
+    "title": "Hassen Allegue",
+    "section": "Experience",
+    "text": "Experience\nFisheries and Oceans Canada  Postdoctoral Researcher  2023 - present"
+  },
+  {
+    "objectID": "about.html#education",
+    "href": "about.html#education",
+    "title": "Hassen Allegue",
+    "section": "Education",
+    "text": "Education\nUniversité du Québec à Montréal, Montreal, QC, Canada  PhD in Biology  2017 - 2023\nUniversity of British Columbia, Vancouver, BC, Canada  M.Sc. in Zoology  2014 - 2017\nUniversité du Québec à Montréal, Montreal, QC, Canada  B.Sc. in Biology  2011 - 2014\nÉcole Polytechnique de Montréal, Montreal, QC, Canada  B.Sc. in Software Engineering  2004 - 2009"
+  },
+  {
+    "objectID": "about.html#skills",
+    "href": "about.html#skills",
+    "title": "Hassen Allegue",
+    "section": "Skills",
+    "text": "Skills\n\n\nProgramming\nR  C++  Matlab  SQL  LaTeX  Web\n\n\nBiologging/Biotelemetry\nSatellite  Acoustic  Fine-Scale Movement\n\n\nStatistical Modeling\nStan  R-Nimble  TMB  Machine Learning\n\n\nRemote Fieldwork\nAtlantic and Pacific Canada  Southern Ocean\n\n\nAnimal Capture and Manipulation\nHarbor Seal  Grey Seal  Elephant Seal  White Shark"
+  },
+  {
+    "objectID": "about.html#interests",
+    "href": "about.html#interests",
+    "title": "Hassen Allegue",
+    "section": "Interests",
+    "text": "Interests\nWater Polo/Swimming  Rock and Ice Climbing  Backpacking  Web Development  Volunteering"
+  },
+  {
+    "objectID": "about.html#long-form-cv",
+    "href": "about.html#long-form-cv",
+    "title": "Hassen Allegue",
+    "section": " Long-form CV",
+    "text": "Long-form CV"
   }
 ]

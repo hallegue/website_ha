@@ -1,12 +1,14 @@
 ---
 title: "Hassen Allegue"
-draft: true
 about:
   template: jolla
-  image: ./assets/images/hassen_allegue_about.jpg
+  image: ./assets/images/hassen_about.png
   links:
     - text: "{{< iconify fa6-brands:github >}}"
       href: https://github.com/hallegue
+      target: "_blank"
+    - text: "{{< iconify fa6-brands:linkedin-in >}}"
+      href: https://www.linkedin.com/in/hassen-allegue-64974168/
       target: "_blank"
     - text: "{{< iconify fa6-brands:bluesky >}}"
       href: https://bsky.app/profile/hallegue.bsky.social
@@ -14,7 +16,7 @@ about:
     - text: "{{< iconify fa6-brands:orcid >}}"
       href: https://orcid.org/0000-0001-9357-9151
       target: "_blank"
-    - text: "{{< iconify fa6-brands:researchgate >}}"
+    - text: "{{< iconify academicons:researchgate >}}"
       href: https://www.researchgate.net/profile/Hassen-Allegue
       target: "_blank"
     - text: "{{< iconify fa6-brands:google-scholar >}}"
@@ -22,16 +24,58 @@ about:
       target: "_blank"
 ---
 
-Finley Malloc is the Chief Data Scientist at Wengo Analytics. When not innovating on data platforms, Finley enjoys spending time unicycling and playing with her pet iguana.
+I am currently a postdoctoral researcher at the [Maurice Lamontagne Institute](https://www.qc.dfo-mpo.gc.ca/en/maurice-lamontagne-institute) in Mont-Joli, Quebec, Canada, with [Fisheries and Oceans Canada](https://www.dfo-mpo.gc.ca/index-eng.html). My research focuses on recent changes in white shark presence in Atlantic Canadian waters and their interactions with grey seals. To address this ecological question, I use acoustic and satellite telemetry technologies.
 
 ## Experience
 
-Wengo Analytics \| Head Data Scientist \| April 2018 - present
-
-GeoScynce \| Chief Analyst \| Spet 2012 - April 2018
+Fisheries and Oceans Canada {{< iconify uil:ellipsis-v >}} Postdoctoral Researcher {{< iconify uil:ellipsis-v >}} 2023 - present
 
 ## Education
 
-University of California, San Diego \| San Diego, CA PhD in Mathematics \| Sept 2011 - June 2015
+Université du Québec à Montréal, Montreal, QC, Canada {{< iconify uil:ellipsis-v >}} PhD in Biology {{< iconify uil:ellipsis-v >}} 2017 - 2023
 
-Macalester College \| St. Paul MA B.A in Economics \| Sept 2007 - June 2011
+University of British Columbia, Vancouver, BC, Canada {{< iconify uil:ellipsis-v >}} M.Sc. in Zoology {{< iconify uil:ellipsis-v >}} 2014 - 2017
+
+Université du Québec à Montréal, Montreal, QC, Canada {{< iconify uil:ellipsis-v >}} B.Sc. in Biology {{< iconify uil:ellipsis-v >}} 2011 - 2014
+
+École Polytechnique de Montréal, Montreal, QC, Canada {{< iconify uil:ellipsis-v >}} B.Sc. in Software Engineering {{< iconify uil:ellipsis-v >}} 2004 - 2009
+
+## Skills
+
+:::::::: grid
+::: g-col-4
+**Programming**
+
+R {{< iconify uil:ellipsis-v >}} C++ {{< iconify uil:ellipsis-v >}} Matlab {{< iconify uil:ellipsis-v >}} SQL {{< iconify uil:ellipsis-v >}} LaTeX {{< iconify uil:ellipsis-v >}} Web
+:::
+
+::: g-col-4
+**Biologging/Biotelemetry**
+
+Satellite {{< iconify uil:ellipsis-v >}} Acoustic {{< iconify uil:ellipsis-v >}} Fine-Scale Movement
+:::
+
+::: g-col-4
+**Statistical Modeling**
+
+Stan {{< iconify uil:ellipsis-v >}} R-Nimble {{< iconify uil:ellipsis-v >}} TMB {{< iconify uil:ellipsis-v >}} Machine Learning
+:::
+
+::: g-col-4
+**Remote Fieldwork**
+
+Atlantic and Pacific Canada {{< iconify uil:ellipsis-v >}} Southern Ocean
+:::
+
+::: g-col-4
+**Animal Capture and Manipulation**
+
+Harbor Seal {{< iconify uil:ellipsis-v >}} Grey Seal {{< iconify uil:ellipsis-v >}} Elephant Seal {{< iconify uil:ellipsis-v >}} White Shark
+:::
+::::::::
+
+## Interests
+
+Water Polo/Swimming {{< iconify uil:ellipsis-v >}} Rock and Ice Climbing {{< iconify uil:ellipsis-v >}} Backpacking {{< iconify uil:ellipsis-v >}} Web Development {{< iconify uil:ellipsis-v >}} Volunteering
+
+## <a href="./assets/documents/Allegue_H_CV_en_2025.pdf" target="_blank">{{< iconify famicons:document-text >}} Long-form CV</a>
