@@ -80,8 +80,4 @@ Water Polo/Swimming {{< iconify uil:ellipsis-v >}} Rock and Ice Climbing {{< ico
 
 ## <a href="./assets/documents/Allegue_H_CV_en_2025.pdf" target="_blank">{{< iconify famicons:document-text >}} Long-form CV</a>
 
-
-<figure>
-<img src="./assets/images/harem_about.png" class="img-fluid round"/>
-</figure>
-
+<figure><img src="./assets/images/harem_about.png" class="img-fluid round"/></figure>

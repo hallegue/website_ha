@@ -2,9 +2,9 @@
   {
     "objectID": "contact.html",
     "href": "contact.html",
-    "title": "Feel free to reach out via email ",
+    "title": "HA",
     "section": "",
-    "text": "Photo by Armand Patoir"
+    "text": "Feel free to reach out via email \n\n\n\n\n\nPhoto by Armand Patoir"
   },
   {
     "objectID": "about.html",
@@ -47,5 +47,12 @@
     "title": "Hassen Allegue",
     "section": " Long-form CV",
     "text": "Long-form CV"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "HA",
+    "section": "",
+    "text": "See the original photo"
   }
 ]

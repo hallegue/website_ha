@@ -11,8 +11,6 @@ website:
     toggle-position: "right"
     tools-collapse: true
     right:
-      - text: Home
-        href: index.qmd
       - text: About
         href: about.qmd
       - text: Research

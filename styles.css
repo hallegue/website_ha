@@ -3,22 +3,29 @@
 /* GENERAL */
 
 img.round {
-  border-radius: 30px !important;
+  border-radius: 10px !important;
 }
 
 /* HOMEPAGE */
 
-.homepage-image-hover {
-    width: 922px; /* Specify the width */
-    height: 718px; /* Specify the height */
+.homepage-image {
+  
+   /* width: 922px; 
+    height: 718px;*/
+    
+    width: 100%;
+    max-width: 922px;
+    min-width: 400px;
+    aspect-ratio: 922 / 718;
+    
     border-radius: 0px 100px 0px 100px;
-    background-image: url('./assets/images/hassen_homepage.png'); /* Initial background image */
-    background-size: cover; /* Cover the entire area of the element */
-    transition: background-image 0.75s ease-in-out; /* Smooth transition */
+    background-image: url('./assets/images/hassen_homepage.png'); 
+    background-size: cover; 
+    transition: background-image 0.75s ease-in-out; 
 }
 
-.homepage-image-hover:hover {
-    background-image: url('./assets/images/hassen_homepage_hover.png'); /* Change on hover */
+.homepage-image.active {
+    background-image: url('./assets/images/hassen_homepage_hover.png'); 
 }
 
 

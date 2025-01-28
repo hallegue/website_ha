@@ -1,5 +1,4 @@
 ---
-title: "Feel free to reach out via <a href='mailto:h.all@disroot.org' target='_blank'>email {{< iconify hugeicons:mail-at-sign-01 >}}</a>"
 format:
   html:
     grid:
@@ -8,10 +7,15 @@ format:
       gutter-width: 0px
 ---
 
-::: {.column-page}
+#### Feel free to reach out via <a href='mailto:h.all@disroot.org' target='_blank'>email {{< iconify hugeicons:mail-at-sign-01 >}}</a>
+
+<br>
+
+::: column-page
 <figure>
 
 <img src="./assets/images/hassen_contact.png" class="img-fluid round"/>
+
 <figcaption>Photo by Armand Patoir</figcaption>
 
 </figure>

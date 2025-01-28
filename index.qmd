@@ -6,9 +6,18 @@ format:
       sidebar-width: 0px
       margin-width: 0px
       gutter-width: 0px
+    include-in-header:
+      - text: |
+          <script src="./scripts/homepage.js"></script>
 ---
 
-:::: column-page
-::: homepage-image-hover
-:::
-::::
+<div class="form-check form-switch">
+  <label for="flexSwitchCheckDefault" class="toggle-label">See the original photo</label>
+  <input 
+  class="form-check-input" 
+  type="checkbox" 
+  role="switch" 
+  id="flexSwitchCheckDefault">
+</div>
+
+<div class="homepage-image" id="image-container"></div>

@@ -70,6 +70,7 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
+<script src="./scripts/homepage.js"></script>
 
 
 <link rel="stylesheet" href="styles.css">
@@ -91,10 +92,6 @@ ul.task-list li input[type="checkbox"] {
 </button>
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
-  <li class="nav-item">
-    <a class="nav-link active" href="./index.html" aria-current="page"> 
-<span class="menu-text">Home</span></a>
-  </li>  
   <li class="nav-item">
     <a class="nav-link" href="./about.html"> 
 <span class="menu-text">About</span></a>
@@ -119,15 +116,16 @@ ul.task-list li input[type="checkbox"] {
         
     </div>
 <!-- main -->
-<main class="content page-columns page-full" id="quarto-document-content"><header id="title-block-header" class="quarto-title-block"></header>
+<main class="content" id="quarto-document-content"><header id="title-block-header" class="quarto-title-block"></header>
 
 
 
 
-<div class="column-page">
-<div class="homepage-image-hover">
-
+<div class="form-check form-switch">
+<p><label for="flexSwitchCheckDefault" class="toggle-label">See the original photo</label> <input class="form-check-input" type="checkbox" role="switch" id="flexSwitchCheckDefault"></p>
 </div>
+<div id="image-container" class="homepage-image">
+
 </div>
 
 
