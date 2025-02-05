@@ -2,10 +2,10 @@
   {
     "listing": "/research.html",
     "items": [
-      "/listings/research/elephant_seal_habitat_selection.html",
-      "/listings/research/elephant_seal_predict_feeding.html",
-      "/listings/research/elephant_seal_sex_ratio.html",
-      "/listings/research/harbor_seal_predation.html"
+      "/listings/previous_research/elephant_seal_sex_ratio.html",
+      "/listings/previous_research/elephant_seal_predict_feeding.html",
+      "/listings/previous_research/elephant_seal_habitat_selection.html",
+      "/listings/previous_research/harbor_seal_foraging_behavior.html"
     ]
   }
 ]

@@ -13,10 +13,7 @@ format:
 
 ::: column-page
 <figure>
-
 <img src="./assets/images/hassen_contact.png" class="img-fluid round"/>
-
 <figcaption>Photo by Armand Patoir</figcaption>
-
 </figure>
 :::

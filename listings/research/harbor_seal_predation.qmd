@@ -1,6 +1,0 @@
----
-title: "Habor seal"
-subtitle: "Harbor seal predation on out-migrating smolts"
-decription: "TEXT"
-image: ../../assets/images/hassen_allegue_about.jpg
----

@@ -1,0 +1,76 @@
+---
+title: "Foraging habitat selection in southern elephant seals"
+categories: "PhD"
+image: ../../assets/images/posts/elephant_seal_habitat_selection/seal_swimming.png
+date: 01/26/2022
+---
+
+<figure class="post-figure float-start">
+<img src="../../assets/images/posts/elephant_seal_habitat_selection/seal_molting.png" class="round" />
+<figcaption>Molting seals</figcaption>
+</figure>
+
+During my PhD at the Université du Québec à Montréal (2017–2023), I had the incredible opportunity to study the fascinating world of southern elephant seals (*Mirounga leonine*). Under the guidance of my supervisor, Dr. Denis Réale, and my co-supervisors, Dr. Christophe Guinet (Centre d'Études Biologiques de Chizé) and Dr. Samantha Patrick (University of Liverpool), I focused on understanding how intrinsic factors—like sex, body size, and boldness—shape the seasonal foraging habitat selection of these amazing marine predators from the Kerguelen Islands. I hypothesized that habitat selection is linked to the trade-off between resource acquisition and risk, and that individuals differ in their position along this trade-off because of differences in reproductive strategies, life stages, and metabolic requirements. 
+
+## Why study foraging habitat selection?
+
+Foraging habitat selection is a key behavior that directly impacts an animal’s survival and reproduction. For southern elephant seals, this behavior is shaped by a complex interplay of intrinsic traits and environmental conditions. By studying these patterns, we can better understand their ecological strategies, which is essential for protecting them and the ecosystems they depend on.
+
+
+## Methodology
+
+<figure class="post-figure float-end">
+<img src="../../assets/images/posts/elephant_seal_habitat_selection/tagged_seal.png" class="round" />
+<figcaption>Seal equipped with bio-loggers</figcaption>
+</figure>
+
+To uncover these patterns, I used a combination of tools and techniques:
+
+* **Biologging:** I equipped seals with satellite relay data loggers to track their movements and diving behavior.
+
+* **Behavioral Testing:** I assessed boldness by observing how seals reacted to an unfamiliar object during a novel object approach test.
+
+* **Statistical Modeling:** I used a resource selection function approach, which relied on a simulation-based method to define the available space for seals leaving the Kerguelen Islands. This allowed me to analyze how intrinsic traits influenced their habitat choices.
+
+<figure>
+<img src="../../assets/images/posts/elephant_seal_habitat_selection/boldness_test.png" class="img-fluid round"/>
+<figcaption>Boldness test</figcaption>
+</figure>
+
+## Key findings
+
+Over the course of my research, I tracked 70 southern elephant seals during their post-molting foraging trips. Here are some of the key insights:
+
+* **Sex-specific habitat use:** Males tended to choose more productive but riskier neritic habitats, while females preferred safer, less productive oceanic habitats. These differences likely reflect their unique energy needs and reproductive strategies.
+
+* **Seasonal shifts:** Males tended to choose more productive but riskier neritic habitats, while females preferred safer, less productive oceanic habitats. These differences likely reflect their unique energy needs and reproductive strategies.
+
+* **Boldness matters:** Males tended to choose more productive but riskier neritic habitats, while females preferred safer, less productive oceanic habitats. These differences likely reflect their unique energy needs and reproductive strategies.
+
+* **Body size and habitat choice:** Larger males tended to select neritic habitats, which are more productive but also more competitive.
+
+## Implications for conservation
+
+<figure class="post-figure float-end">
+<img src="../../assets/images/posts/elephant_seal_habitat_selection/boldness_test2.png" class="round" />
+<figcaption>Boldness test</figcaption>
+</figure>
+
+Understanding what drives habitat selection in southern elephant seals is critical for their conservation, especially as climate change continues to reshape the Southern Ocean. These findings can help predict how seals might respond to environmental changes and highlight the importance of considering individual differences when designing conservation strategies.
+
+This research also opens the door to future studies on how intrinsic traits and environmental factors interact to shape the behavior of marine predators. There’s still so much to learn about how these patterns evolve over time and under changing climatic conditions.
+
+## Acknowledgments
+
+This project wouldn’t have been possible without the support of the field teams, funding agencies, and institutions that contributed to this work, including the Institut Polaire Français Paul-Émile Victor, the Centre d'Études Biologiques de Chizé, and the Natural Sciences and Engineering Research Council of Canada.
+
+The biologging data were provided by the Service national d’Observation Mammifères Echantillonneurs du Milieu Océanique (SNO-MEMO) distributed through the [International MEOP Consortium](http://www.meop.net/){.uri target="_blank"} and the [Integrated Marine Observing System (IMOS, Australia)](https://imos.org.au/){.uri target="_blank"}.
+
+<figure>
+<img src="../../assets/images/posts/elephant_seal_habitat_selection/site.png" class="img-fluid round"/>
+</figure>
+
+## Related links
+
+- [Allegue, H. (2023). "The role of individual differences in the ecology of the southern elephant seal (*Mirounga leonina*)" (Thesis). Montréal (Québec, Canada), Université du Québec à Montréal.](http://archipel.uqam.ca/id/eprint/16596){.uri target="_blank"}
+- [Allegue, H., Guinet, C., Patrick, S. C., Hindell, M. A., McMahon, C. R., & Réale, D. (2022). Sex, body size, and boldness shape the seasonal foraging habitat selection in southern elephant seals. Ecology and Evolution, 12, e8457.](https://doi.org/10.1002/ece3.8457){.uri target="_blank"}

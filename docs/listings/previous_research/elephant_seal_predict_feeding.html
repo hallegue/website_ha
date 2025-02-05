@@ -6,8 +6,9 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
+<meta name="dcterms.date" content="2023-01-21">
 
-<title>Habor seal – HA</title>
+<title>Predicting feeding in marine predators? – HA</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -96,6 +97,10 @@ ul.task-list li input[type="checkbox"] {
 <span class="menu-text">About</span></a>
   </li>  
   <li class="nav-item">
+    <a class="nav-link" href="../../research.html"> 
+<span class="menu-text">Research</span></a>
+  </li>  
+  <li class="nav-item">
     <a class="nav-link" href="../../contact.html"> 
 <span class="menu-text">Contact</span></a>
   </li>  
@@ -111,23 +116,42 @@ ul.task-list li input[type="checkbox"] {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
-        
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#background" id="toc-background" class="nav-link active" data-scroll-target="#background">Background</a></li>
+  <li><a href="#how-i-conducted-the-study" id="toc-how-i-conducted-the-study" class="nav-link" data-scroll-target="#how-i-conducted-the-study">How I conducted the study</a></li>
+  <li><a href="#key-findings" id="toc-key-findings" class="nav-link" data-scroll-target="#key-findings">Key findings</a></li>
+  <li><a href="#looking-ahead" id="toc-looking-ahead" class="nav-link" data-scroll-target="#looking-ahead">looking ahead</a></li>
+  <li><a href="#acknowledgments" id="toc-acknowledgments" class="nav-link" data-scroll-target="#acknowledgments">Acknowledgments</a></li>
+  <li><a href="#related-links" id="toc-related-links" class="nav-link" data-scroll-target="#related-links">Related links</a></li>
+  </ul>
+</nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Habor seal</h1>
-<p class="subtitle lead">Harbor seal predation on out-migrating smolts</p>
-</div>
+<h1 class="title">Predicting feeding in marine predators?</h1>
+  <div class="quarto-categories">
+    <div class="quarto-category">PhD</div>
+  </div>
+  </div>
 
 
 
 <div class="quarto-title-meta">
 
     
+    <div>
+    <div class="quarto-title-meta-heading">Published</div>
+    <div class="quarto-title-meta-contents">
+      <p class="date">January 21, 2023</p>
+    </div>
+  </div>
   
     
   </div>
@@ -137,8 +161,62 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
+<p>During my PhD at the Université du Québec à Montréal (2017–2023), under the supervision of Dr.&nbsp;Denis Réale and co-supervision of Dr.&nbsp;Christophe Guinet (Centre d’Études Biologiques de Chizé) and Dr.&nbsp;Samantha Patrick (University of Liverpool), I had the opportunity to study the fascinating foraging behavior of southern elephant seals (<em>Mirounga leonina</em>). In this research project, I specifically focused on testing whether simple continuous movement metrics predict feeding intensity in this marine predator and investigate potential factors influencing the predictive capacity of these metrics. This work sheds light on the complex interactions between animal behavior, environmental conditions, and prey availability in the Southern Ocean.</p>
+<figure class="figure">
+<img src="../../assets/images/posts/elephant_seal_predict_feeding/view_cabine.png" class="img-fluid round figure-img">
+</figure>
+<section id="background" class="level2">
+<h2 class="anchored" data-anchor-id="background">Background</h2>
+<figure class="post-figure float-end figure">
+<img src="../../assets/images/posts/elephant_seal_predict_feeding/seal1.png" class="round figure-img">
+</figure>
+<p>Foraging plays a fundamental role in the evolution of species, directly influencing individual fitness through survival and reproduction. Understanding how animals optimize their foraging behavior is essential for advancing ecological theory and guiding conservation efforts, particularly in the context of climate change and shifting oceanic conditions. While the study of animal movement through the lens of optimal foraging theory has led to the development of simple movement metrics to infer feeding activity, their reliability in natural environments remains poorly understood. In this study, I aimed to test whether these simple continuous movement metrics can predict feeding intensity in southern elephant seals and to explore the factors that may influence their predictive capacity.</p>
+</section>
+<section id="how-i-conducted-the-study" class="level2">
+<h2 class="anchored" data-anchor-id="how-i-conducted-the-study">How I conducted the study</h2>
+<figure class="post-figure float-start figure">
+<img src="../../assets/images/posts/elephant_seal_predict_feeding/tagged_seal2.png" class="round figure-img">
+<figcaption>
+Seal equipped with bio-loggers
+</figcaption>
+</figure>
+<p>To investigate these questions, we equipped 21 female southern elephant seals from the Kerguelen Archipelago with bio-logging devices. These devices recorded detailed data on their movements, including their horizontal and vertical movements, during their post-breeding foraging trips. We also used accelerometers to detect prey encounter events (PEE), which served as a proxy for feeding attempts.</p>
+<p>The analysis was conducted at two temporal scales (dive and day) and with two types of dive data resolutions (high-resolution at 1 Hz and low-resolution simplified profiles). We tested the predictive capacity of various movement metrics using statistical models, including generalized linear mixed models (GLMM) and boosted regression trees (BRT).</p>
+</section>
+<section id="key-findings" class="level2">
+<h2 class="anchored" data-anchor-id="key-findings">Key findings</h2>
+<figure class="post-figure float-end figure">
+<img src="../../assets/images/posts/elephant_seal_predict_feeding/seal2.png" class="round figure-img">
+</figure>
+<p>One of the main discoveries of this study was that simple movement metrics, while widely used in ecological studies, do not consistently predict feeding intensity in southern elephant seals. Here are some of the key findings:</p>
+<ul>
+<li><p><strong>Dive-based metrics outperform track-based metrics</strong>: Metrics derived from dive profiles, such as ascent rates, were better predictors of feeding intensity than horizontal movement metrics like turning angles or speed. However, even the best-performing metrics showed limited predictive power.</p></li>
+<li><p><strong>Individual variability matters</strong>: The predictive capacity of movement metrics varied significantly among individual seals, suggesting that foraging tactics differ between individuals. This highlights the importance of considering individual differences in behavioral studies.</p></li>
+<li><p><strong>Temporal scale influences predictions</strong>: Movement metrics were more effective at predicting feeding intensity when analyzed at the scale of days rather than individual dives. This suggests that seals adjust their foraging behavior over longer time periods.</p></li>
+<li><p><strong>Data resolution is critical</strong>: High-resolution dive data provided more accurate insights into feeding behavior compared to low-resolution data, emphasizing the importance of detailed data collection in ecological studies.</p></li>
+</ul>
+<p>These findings challenge the assumption that simple movement metrics can reliably infer feeding activity in free-ranging marine predators and underscore the complexity of foraging behavior in dynamic ocean environments.</p>
+</section>
+<section id="looking-ahead" class="level2">
+<h2 class="anchored" data-anchor-id="looking-ahead">looking ahead</h2>
+<p>Future research could explore more advanced methods, such as machine learning, to better predict feeding behavior from movement data. Additionally, studying other marine predators in different ecological contexts could help validate and refine these findings. By continuing to investigate the foraging behavior of southern elephant seals, we can gain valuable insights into the health of marine ecosystems and the challenges these animals face in a changing world.</p>
+<figure class="figure">
+<img src="../../assets/images/posts/elephant_seal_predict_feeding/view_dark.png" class="img-fluid round figure-img">
+</figure>
+</section>
+<section id="acknowledgments" class="level2">
+<h2 class="anchored" data-anchor-id="acknowledgments">Acknowledgments</h2>
+<p>This project wouldn’t have been possible without the support of the field teams, funding agencies, and institutions that contributed to this work, including the Institut Polaire Français Paul-Émile Victor, the Centre d’Études Biologiques de Chizé, the Natural Sciences and Engineering Research Council of Canada, and the Fond de Recherche du Québec—Nature et Technologies.</p>
+</section>
+<section id="related-links" class="level2">
+<h2 class="anchored" data-anchor-id="related-links">Related links</h2>
+<ul>
+<li><a href="http://archipel.uqam.ca/id/eprint/16596" class="uri" target="_blank">Allegue, H. (2023). “The role of individual differences in the ecology of the southern elephant seal (<em>Mirounga leonina</em>)” (Thesis). Montréal (Québec, Canada), Université du Québec à Montréal.</a></li>
+<li><a href="https://doi.org/10.1186/s40462-022-00361-2" class="uri" target="_blank">Allegue, H., Réale, D., Picard, B. et al.&nbsp;Track and dive-based movement metrics do not predict the number of prey encountered by a marine predator. Mov Ecol 11, 3 (2023).</a></li>
+</ul>
 
 
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">

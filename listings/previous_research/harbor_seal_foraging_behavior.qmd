@@ -1,0 +1,65 @@
+---
+title: "Harbor seal foraging behavior during out-migrations of salmon smolts"
+categories: "M.Sc."
+image: ../../assets/images/posts/harbor_seal_foraging_behavior/harbor_seals.png
+date: 06/01/2017
+---
+
+<figure class="post-figure float-start">
+<img src="../../assets/images/posts/harbor_seal_foraging_behavior/hassen_ferry.png" class="round" />
+<figcaption>Localizing bio-logger packages with a VHF receiver</figcaption>
+</figure>
+
+From 2014 to 2017, I had the privilege of conducting my master's research at the Marine Mammal Research Unit at the University of British Columbia, under the guidance of Dr. Andrew Trites and in collaboration with Dr. Austen Thomas. My project focused on uncovering the foraging behavior of harbor seals (*Phoca vitulina*) during the critical out-migration period of juvenile salmon (smolts) in the Strait of Georgia.
+
+## Why study harbor seals and salmon smolts?
+
+Harbor seals are a common sight in the Salish Sea, where they are year-round predators with a diverse diet that includes salmon. Coho and Chinook salmon, however, are of particular concern due to their declining populations. While previous research has explored what seals eat, there was still much to learn about where, when, and how they prey on salmon smolts as they migrate from rivers to the ocean. My research set out to answer these questions by studying the fine-scale foraging behavior of individual seals and identifying key feeding hotspots.
+
+## Tracking seal movements and feeding events
+
+<figure class="post-figure float-end">
+<img src="../../assets/images/posts/harbor_seal_foraging_behavior/tagging.png" class="round"/>
+<figcaption>Equipping seal with bio-loggers</figcaption>
+</figure>
+
+To better understand seal behavior, I equipped 17 harbor seals with biologging devices, including GPS trackers and accelerometers, to monitor their movements and feeding activity. The study took place near the Big Qualicum River, where millions of coho and Chinook smolts are released annually by a local hatchery. By analyzing the data, I was able to map the seals’ movements and detect prey-chasing events, offering valuable insights into their foraging strategies.
+
+## Key findings
+
+1.  **Feeding hotspots**
+
+The Big Qualicum estuary emerged as a feeding hotspot for nearly half (47%) of the tracked seals. However, this area accounted for only 3% of total feeding events, suggesting that most seals fed elsewhere, such as near haul-out sites like Norris Rocks.
+
+2.  **Individual specialization**
+
+I identified four distinct foraging strategies among the seals. A small group (17.6%) specialized in feeding on coho smolts in the estuary, while others targeted different prey or foraged in deeper waters. Interestingly, seals showed little response to the release of smaller Chinook smolts, likely because of their smaller size and lower energy density compared to coho smolts.
+
+3.  **Implications for salmon conservation**
+
+My findings revealed that only a small number of seals were responsible for most of the predation on coho smolts. This suggests that targeted management strategies, such as deterring specific individuals, could be more effective than broad measures that impact the entire seal population.
+
+## Conclusion
+
+This research shed light on the intricate predator-prey dynamics between harbor seals and salmon smolts. By understanding the variability in seal foraging behavior, we can better inform conservation efforts aimed at improving salmon survival in the Salish Sea.
+
+This project was an incredibly rewarding experience, blending fieldwork, data analysis, and collaboration with a fantastic team. It also highlighted the importance of studying individual behaviors within predator populations to develop effective conservation strategies.
+
+<figure>
+<img src="../../assets/images/posts/harbor_seal_foraging_behavior/landscape.png" class="img-fluid round "/>
+</figure>
+
+## Acknowledgements
+
+I am deeply grateful to the Pacific Salmon Foundation and the Fonds de Recherche Nature et Technologies Québec for funding this research. This project was also made possible through the collaboration of several organizations, including the Washington Department of Fish and Wildlife, Fisheries and Oceans Canada, Big Qualicum First Nation, Vancouver Aquarium, British Columbia Conservation Foundation, and Wildlife Computers.
+
+## Related links
+
+- [Allegue, H. (2017). Variability of harbour seal (*Phoca vitulina*) foraging behaviour during out-migrations of salmon smolts (Thesis). University of British Columbia.](https://open.library.ubc.ca/soa/cIRcle/collections/ubctheses/24/items/1.0348378){.uri target="_blank"}
+- [Allegue H, Thomas AC, Liu Y, Trites AW (2020) Harbour seals responded differently to pulses of out-migrating coho and Chinook smolts. Mar Ecol Prog Ser 647:211-227.](https://doi.org/10.3354/meps13389){.uri target="_blank"}
+- [UBC Marine Mammal Research Unit. "Into the Field: Harbor seals prey on salmon smolts". Accessed 01 Feb 2025.](https://mmru.ubc.ca/2017/08/into-the-field-harbor-seals-prey-on-salmon-smolts){.uri target="_blank"}
+- [UBC Marine Mammal Research Unit. "Harbour seals respond differently to pulses of out-migrating coho and Chinook salmon smolts". Accessed 01 Feb 2025.](https://mmru.ubc.ca/2020/12/harbour-seals-respond-differently/){.uri target="_blank"}
+- [Salish Sea Marine Survival Project. "Predation". Accessed 01 Feb 2025.](https://marinesurvivalproject.com/research_activity/list/predation/){.uri target="_blank"}
+- [Boczulak, Hannah. The Salish Sea Marine Survival Project. "Novel Technologies in the Salish Sea". 19 Feb 2021. Accessed 01 Feb 2025.](https://storymaps.arcgis.com/stories/c2e3a9e0028a4356adeea05431209b74){.uri target="_blank"}
+- [Matthews, Charlotte. "How are Harbour Seals Affecting Local Fish Populations?". Mayne Island Conservancy. 03 May 2020. Accessed 01 Feb 2025.](https://mayneconservancy.ca/how-are-harbour-seals-affecting-local-fish-populations/){.uri target="_blank"}
+- [Public Fishery Alliance Team. "Strategic Pinniped Predator Control as it relates to early timed Fraser River Chinook and Steelhead". 13 Apr 2020. Accessed 01 Feb 2025.](https://publicfisheryalliance.ca/strategic-pinniped-predator-control-as-it-relates-to-early-timed-fraser-river-chinook-and-steelhead/){.uri target="_blank"}

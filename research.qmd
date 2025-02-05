@@ -1,8 +1,20 @@
 ---
 title: "Research"
-draft: true
-listing:
-  contents: listings/research/
-  type: default
-  fields: [image, title, description]
+draft: false
+listing: 
+  - id: previous-research
+    contents: listings/previous_research/
+    type: grid
+    image-height: 150px
+    categories: true
+    sort: "date desc"
+    fields: [image, title, subtitle, categories, date]
 ---
+
+## Ongoing research projects
+
+
+## Previous research projects
+
+:::{#previous-research}
+:::

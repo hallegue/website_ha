@@ -2,9 +2,11 @@
 
 /* GENERAL */
 
+
 img.round {
   border-radius: 10px !important;
 }
+
 
 /* HOMEPAGE */
 
@@ -28,8 +30,23 @@ img.round {
     background-image: url('./assets/images/hassen_homepage_hover.png'); 
 }
 
+.form-switch label, .form-switch input {
+  cursor: pointer;
+}
+
 
 /* ABOUT */
+
+
+/* RESEARCH */
+
+.post-figure.float-end{
+  margin: 0px 0px 15px 15px;
+}
+
+.post-figure.float-start{
+  margin: 0px 15px 15px 0px;
+}
 
 
 /* CONTACT */
