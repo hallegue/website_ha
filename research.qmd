@@ -2,6 +2,13 @@
 title: "Research"
 draft: false
 listing: 
+  - id: current-research
+    contents: listings/current_research/
+    type: grid
+    image-height: 150px
+    categories: true
+    sort: "date desc"
+    fields: [image, title, subtitle, categories, date]
   - id: previous-research
     contents: listings/previous_research/
     type: grid
@@ -11,10 +18,12 @@ listing:
     fields: [image, title, subtitle, categories, date]
 ---
 
-## Ongoing research projects
+## Ongoing research
 
+:::{#current-research}
+:::
 
-## Previous research projects
+## Previous research
 
 :::{#previous-research}
 :::

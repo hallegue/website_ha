@@ -1,0 +1,25 @@
+---
+title: "Grey seal-white shark interactions"
+categories: "Postdoc"
+image: ../../assets/images/posts/white_shark_grey_seal_interaction/seal2.png
+date: 02/05/2025
+---
+
+
+<figure class="post-figure float-end">
+<img src="../../assets/images/posts/white_shark_grey_seal_interaction/shark_side_tag.png" class="round" />
+<figcaption>Photo by DFO Science</figcaption>
+</figure>
+
+As part of my postdoctoral research at the [Maurice Lamontagne Institute](https://www.qc.dfo-mpo.gc.ca/en/maurice-lamontagne-institute){.uri target="_blank"} with Fisheries and Oceans Canada, under the supervision of Xavier Bordeleau and Heather Bowlby, I am investigating an exciting and important topic in marine ecology. My work focuses on understanding the interactions between two key species in Atlantic Canadian waters: grey seals and white sharks.
+
+Ecosystems are complex networks of interactions between species, and these relationships shape the balance of marine environments. In recent years, sightings of white sharks in Atlantic Canadian waters have increased, raising questions about how this apex predator interacts with grey seals, a generalist mesopredator that plays a critical role in the region's ecosystem. These interactions are not only fascinating but also have the potential to influence the structure and dynamics of the entire food web.
+
+<figure class="post-figure float-start">
+<img src="../../assets/images/posts/white_shark_grey_seal_interaction/seal.png" class="round" />
+<figcaption>Photo by Théo Garnier</figcaption>
+</figure>
+
+To investigate these interactions, I am using advanced technologies such as mobile acoustic telemetry and satellite biologging. These tools allow us to track the movements of both species and identify where and when they are most likely to encounter each other. Using this movement data, we can better understand the spatiotemporal patterns of their interactions and how these dynamics may shape the ecosystem.
+
+This project is an incredible opportunity to contribute to our understanding of marine ecosystems and their ecological, economic, and social significance. I am excited to share more about this research as it progresses and to highlight the importance of studying these fascinating species in a changing ocean.

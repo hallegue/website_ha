@@ -1,0 +1,17 @@
+---
+title: "White shark presence in Atlantic Canadian waters"
+categories: "Postdoc"
+image: ../../assets/images/posts/white_shark_presence/shark_front.png
+date: 02/06/2025
+---
+
+<figure class="post-figure float-end">
+<img src="../../assets/images/posts/white_shark_presence/shark_side.png" class="round" />
+<figcaption>Photo by DFO Science</figcaption>
+</figure>
+
+As part of my postdoctoral research at the [Maurice Lamontagne Institute](https://www.qc.dfo-mpo.gc.ca/en/maurice-lamontagne-institute){.uri target="_blank"} with Fisheries and Oceans Canada, I am exploring an exciting and important hypothesis that has been proposed: the increasing presence of white sharks in Atlantic Canadian waters. Under the supervision of Dr. Xavier Bordeleau and Dr. Heather Bowlby, this project aims to shed light on the movements and seasonal patterns of this iconic species in this region.
+
+White sharks are fascinating apex predators that play a key ecological role in structuring marine food webs through top-down effects. Over the years, their presence in Atlantic Canada has raised many questions. Are they visiting more frequently? What might be driving these changes? And what does this mean for the conservation of the population? These questions form the foundation of my research, which leverages data from the extensive acoustic monitoring network deployed by the [Ocean Tracking Network](https://oceantrackingnetwork.org/){.uri target="_blank"}. 
+
+By studying white shark movements, we hope to better understand their behavior and the factors influencing their migration to Canadian waters. This knowledge is essential for developing effective conservation strategies and ensuring the long-term survival of this vulnerable species. This research is not only about understanding white sharks but also about contributing to the broader efforts to protect marine biodiversity in a rapidly changing world. I am excited to share more about this journey as we continue to uncover new insights into the lives of these incredible animals. Stay tuned!

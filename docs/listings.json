@@ -2,6 +2,8 @@
   {
     "listing": "/research.html",
     "items": [
+      "/listings/current_research/white_shark_presence.html",
+      "/listings/current_research/white_shark_grey_seal_interaction.html",
       "/listings/previous_research/elephant_seal_sex_ratio.html",
       "/listings/previous_research/elephant_seal_predict_feeding.html",
       "/listings/previous_research/elephant_seal_habitat_selection.html",
